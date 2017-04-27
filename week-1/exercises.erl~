@@ -1,0 +1,15 @@
+%% 1. Write a module (geometry.erl) 
+%% that computes the areas of rectangles, squares, circle.
+
+%% 2. Pythagorean triplets are sets of integers {A,B,C} where 
+%% A^2 + B^2 = C^2
+%% .
+%% The function pythag(N) generates a list of all integers {A,B,C} where 
+%% A^2 + B^2 = C^2
+%%  and where the sum of the sides is less than or equal to N.
+ 
+%% 3.  find all the permutations of a string using the beautiful little function perms
+
+%% 4. write a function to return nth element of a list
+%% 5. write a function to return a even/odd elements of a list
+%% 6. write a function to return an even list and an odd list without traversing the List twice.
